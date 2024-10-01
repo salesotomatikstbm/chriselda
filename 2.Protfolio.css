@@ -1,0 +1,35 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 0;
+}
+
+/* Write Your code below */
+
+section{
+    color: rgb(255, 20, 20);
+    background-color: rgb(255, 127, 212);
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin: 20px;
+    border: 1px solid rgb(12, 26, 135);
+    border-radius: 10px;
+
+}
+
+h3{
+    color: rgb(87, 20, 244);
+    
+}
+li{
+    color: brown;
+}
+img{
+    border-radius: 200px;
+}
+.head{
+    text-align: center;
+    color: chocolate;
+}
